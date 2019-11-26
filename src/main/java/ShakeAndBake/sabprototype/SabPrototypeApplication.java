@@ -11,7 +11,7 @@ public class SabPrototypeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SabPrototypeApplication.class, args);
-        logger.info("Starting application...");
+        logger.info("Starting Recipe Proxy Prototype!");
         RecipeProxy recipeProxy = new RecipeProxy();
 	}
 

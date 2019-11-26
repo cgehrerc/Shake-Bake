@@ -1,6 +1,4 @@
-package ShakeAndBake.sabprototype.models;
-
-import java.util.List;
+package ShakeAndBake.sabprototype.models.edamam;
 
 public class EdamamRecipeHit {
     public EdamamRecipe recipe;

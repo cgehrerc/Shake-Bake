@@ -1,10 +1,10 @@
-package ShakeAndBake.sabprototype.models;
+package ShakeAndBake.sabprototype.models.edamam;
 
 import java.util.List;
 
 /*
     Edamam Recipe API response
  */
-public class EdamamResponse {
+public class EdamamRecipeResponse {
     public List<EdamamRecipeHit> hits;
 }

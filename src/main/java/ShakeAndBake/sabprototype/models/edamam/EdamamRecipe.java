@@ -1,4 +1,4 @@
-package ShakeAndBake.sabprototype.models;
+package ShakeAndBake.sabprototype.models.edamam;
 
 /*
     Relevant Edamam Recipe data

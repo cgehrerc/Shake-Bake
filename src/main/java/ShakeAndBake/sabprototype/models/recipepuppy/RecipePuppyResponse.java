@@ -1,4 +1,4 @@
-package ShakeAndBake.sabprototype.models;
+package ShakeAndBake.sabprototype.models.recipepuppy;
 
 import java.util.List;
 
@@ -6,5 +6,5 @@ import java.util.List;
     RecipePuppy API response
  */
 public class RecipePuppyResponse {
-    public List<RecipePuppyRecipe> results;
+    public RecipePuppyRecipe[] results;
 }

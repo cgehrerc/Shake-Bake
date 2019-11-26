@@ -1,4 +1,4 @@
-package ShakeAndBake.sabprototype.models;
+package ShakeAndBake.sabprototype.models.recipepuppy;
 
 /*
     Relevant RecipePuppy Recipe data
