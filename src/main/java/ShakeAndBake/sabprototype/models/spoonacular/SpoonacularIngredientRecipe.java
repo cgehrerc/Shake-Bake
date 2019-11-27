@@ -5,5 +5,4 @@ package ShakeAndBake.sabprototype.models.spoonacular;
  */
 public class SpoonacularIngredientRecipe {
     public int id;
-    public String title;
 }

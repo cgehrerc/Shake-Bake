@@ -3,7 +3,6 @@ package ShakeAndBake.sabprototype;
 import ShakeAndBake.sabprototype.models.UserRecipe;
 import ShakeAndBake.sabprototype.models.UserRecipeRequest;
 import ShakeAndBake.sabprototype.models.UserRecipeResponse;
-import ShakeAndBake.sabprototype.models.edamam.EdamamRecipe;
 import ShakeAndBake.sabprototype.models.edamam.EdamamRecipeHit;
 import ShakeAndBake.sabprototype.models.edamam.EdamamRecipeResponse;
 import ShakeAndBake.sabprototype.models.recipepuppy.RecipePuppyRecipe;
@@ -21,6 +20,9 @@ import java.util.List;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
 
+/*
+    Recipe Proxy implementation
+ */
 public class RecipeProxy implements IRecipeProxy {
 
     //region Properties
@@ -47,7 +49,7 @@ public class RecipeProxy implements IRecipeProxy {
     private static final String _spoonacularRecipeApiUrl = "https://api.spoonacular.com/recipes/informationBulk";
 
     // Spoonacular API Key
-    private static final String _spoonacularApiKey = "ce624a94673c45cfac384c84b0abbfbb";
+    private static final String _spoonacularApiKey = "c1a17020549e40c69a2715cafb3e6421";
 
     //endregion
 

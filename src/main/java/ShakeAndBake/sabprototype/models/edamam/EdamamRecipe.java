@@ -5,6 +5,5 @@ package ShakeAndBake.sabprototype.models.edamam;
  */
 public class EdamamRecipe {
     public String label;
-    public String source;
     public String url;
 }
